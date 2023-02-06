@@ -1,0 +1,112 @@
+.top-container {
+    background-color: #E4F9F5;
+    /* margin not move element but padding do this
+    margin: 0px;//margin create space &padding move element
+    */
+    padding: 30px;
+}
+.middle-container{
+    margin: 50px 0 100px 0;
+}
+.bottom-container{
+    background-color: #66BFBF;
+    
+}
+
+body{
+    margin: auto;
+    text-align: center;
+    font-family: verdana, sans-serif;
+    
+}
+h1{
+    margin-top: 0 ;
+    font-size: 50px;
+    color:#66BFBF;
+    line-height: 60px;
+}
+h2{
+    color:#66BFBF;
+    font-weight: normal;
+    padding-bottom: 10px;
+}
+h3{
+    color: #11999E;
+}
+a{
+    color: #11999E;
+}
+.top-cloud{
+    position: relative;
+    left: 300px;
+    top: 0px;
+}
+.bottom-cloud{
+    position: absolute;
+    left: 300px;
+    bottom: 300px;
+}
+.mountain{
+    height: 230px;
+    left: 300px;
+    bottom: 300px;
+}
+hello-container{
+    background-color: aqua;
+}
+.profile{
+    line-height: 2;
+    width: 40%;
+    position: relative;
+    margin: 50px auto 100px auto;
+    text-align: left;
+    
+}
+.profileI{
+    margin-right: 20px;
+    width: 35%;
+    float: left;
+    
+    
+    
+}
+.intro{
+    line-height: 2;
+    margin: auto;
+}
+p{
+    line-height: 2;
+}
+.skill-row{
+    line-height: 2;
+    width: 50%;
+    margin: 50px auto 50px auto;
+    text-align: left;
+}
+.workspace-images{
+    margin-right: 30px;
+    width: 25%;
+    float: left;
+}
+.computer-images{
+    margin-right: 30px;
+    width: 25%;
+    float: right;
+}
+
+.contact-me{
+    
+}
+hr {
+    border-style: none;
+    border-top-style:  dotted;
+    border-color: yellow;
+    
+    width: 20%;
+    border-width: 15px;
+  }
+  .copyright{
+    color: #EAF6F6;
+    font-size: 0.75rem;
+    padding: 20px 0;
+  }

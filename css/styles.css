@@ -38,25 +38,21 @@ a{
 }
 .top-cloud{
     position: relative;
-    left: 300px;
+    left: 0;
     top: 0px;
 }
-.bottom-cloud{
-    position: absolute;
-    left: 300px;
-    bottom: 300px;
-}
+
 .mountain{
     height: 230px;
     left: 300px;
     bottom: 300px;
 }
 hello-container{
-    background-color: aqua;
+    background-color: #A555EC;
 }
 .profile{
     line-height: 2;
-    width: 40%;
+    width: 60%;
     position: relative;
     margin: 50px auto 100px auto;
     text-align: left;
@@ -64,22 +60,13 @@ hello-container{
 }
 .profileI{
     margin-right: 20px;
-    width: 35%;
+    width: 30%;
     float: left;
-    
-    
-    
 }
-.intro{
-    line-height: 2;
-    margin: auto;
-}
-p{
-    line-height: 2;
-}
+
 .skill-row{
     line-height: 2;
-    width: 50%;
+    width: 70%;
     margin: 50px auto 50px auto;
     text-align: left;
 }
@@ -93,7 +80,13 @@ p{
     width: 25%;
     float: right;
 }
-
+.intro{
+    line-height: 2;
+    margin: auto;
+}
+p{
+    line-height: 2;
+}
 .contact-me{
     
 }

@@ -26,8 +26,8 @@ h1{
     line-height: 60px;
 }
 h2{
-    color:#66BFBF;
-    font-weight: normal;
+    color: #11999E;
+    
     padding-bottom: 10px;
 }
 h3{
@@ -89,7 +89,7 @@ p{
 }
 .quote{
     font-size: 1rem;
-    
+
 }
 hr {
     border-style: none;

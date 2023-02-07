@@ -52,15 +52,15 @@ hello-container{
 }
 .profile{
     line-height: 2;
-    width: 60%;
+    width: 80%;
     position: relative;
     margin: 50px auto 100px auto;
     text-align: left;
     
 }
 .profileI{
-    margin-right: 20px;
-    width: 30%;
+    margin-right: 30px;
+    width: 25%;
     float: left;
 }
 
@@ -76,9 +76,9 @@ hello-container{
     float: left;
 }
 .computer-images{
-    margin-right: 30px;
+    margin-right: 100px;
     width: 25%;
-    float: right;
+    float: left;
 }
 .intro{
     line-height: 2;
@@ -95,11 +95,14 @@ hr {
     border-top-style:  dotted;
     border-color: yellow;
     
-    width: 20%;
-    border-width: 15px;
+    width: 30%;
+    border-width: 10px;
   }
   .copyright{
     color: #EAF6F6;
     font-size: 0.75rem;
     padding: 20px 0;
+  }
+  .ol{
+    width: 80%;
   }

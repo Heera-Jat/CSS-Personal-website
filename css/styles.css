@@ -5,9 +5,6 @@
     */
     padding: 30px;
 }
-.middle-container{
-    margin: 50px 0 100px 0;
-}
 .bottom-container{
     background-color: #66BFBF;
     
@@ -50,19 +47,7 @@ a{
 hello-container{
     background-color: #A555EC;
 }
-.profile{
-    line-height: 2;
-    width: 80%;
-    position: relative;
-    margin: 50px auto 100px auto;
-    text-align: left;
-    
-}
-.profileI{
-    margin-right: 30px;
-    width: 25%;
-    float: left;
-}
+
 
 .skills{
     line-height: 2;
@@ -70,26 +55,22 @@ hello-container{
     margin: 50px auto 50px auto;
     text-align: left;
 }
-.hobbies{
-    line-height: 2;
-    width: 70%;
-    margin: 50px auto 50px auto;
-    text-align: left;
+.profileI{
+    margin-right: 50px;
+    width: 25%;
+    float: left;
 }
 .workspace-images{
-    margin-right: 60px;
+    margin-right: 50px;
     width: 25%;
     float: left;
 }
 .computer-images{
-    margin-right: 100px;
+    margin-right: 300px;
     width: 20%;
     float: right;
 }
-.intro{
-    line-height: 2;
-    margin: auto;
-}
+
 p{
     line-height: 2;
 }
